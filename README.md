@@ -1,16 +1,14 @@
-<div align="right">
-  <img src="img/withlena.jpg" width="200"/>
-</div>
-
 ## 👋 Hi, I'm Shun
 
-Information Engineering student focusing on **Cybersecurity Research**.
+<img src="img/withlena.jpg" width="200" align="right"/>
+
+Computer science student focusing on **Cybersecurity Research**.
 
 - 🔐 Researching **malware analysis, IoT security, and threat observation**
 - 🧠 Interested in **security research and OSINT**
 - 🏢 Research intern at **NTT DATA Institute of Management Consulting**
 
-<br>
+<br clear="right"/>
 
 ## 🔬 Research Interests
 
@@ -40,9 +38,3 @@ Reverse engineering firmware and observing malware activity on IoT devices.
   <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Tivo0921&theme=vue-dark&layout=compact" />
   <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tivo0921&theme=vue-dark&layout=compact" />
 </div>
-
-<br>
-
-## 📫 Contact
-
-- Twitter / X: https://x.com/tivo0921
