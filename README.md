@@ -1,5 +1,5 @@
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=Tivo0921" />
+  <img src="img/withlena.jpg" width="200"/>
 </div>
 
 ## 👋 Hi, I'm Shun
