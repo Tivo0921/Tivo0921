@@ -1,16 +1,48 @@
-## Hi there 👋
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=Tivo0921" />
+</div>
 
-<!--
-**Tivo0921/Tivo0921** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hi, I'm Shun
 
-Here are some ideas to get you started:
+Information Engineering student focusing on **Cybersecurity Research**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔐 Researching **malware analysis, IoT security, and threat observation**
+- 🧠 Interested in **security research and OSINT**
+- 🏢 Research intern at **NTT DATA Institute of Management Consulting**
+
+<br>
+
+## 🔬 Research Interests
+
+- Malware analysis
+- IoT security
+- Threat intelligence / OSINT
+- Security data analysis
+
+<br>
+
+## 🚀 Projects
+
+**IoT Malware Analysis Lab**  
+Reverse engineering firmware and observing malware activity on IoT devices.
+
+<br>
+
+## 🌱 Skills
+
+<img alt="skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,linux,git,docker,nodejs,next" />
+
+<br>
+
+## 📊 GitHub Stats
+
+<div align="left"> 
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Tivo0921&theme=vue-dark&layout=compact" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tivo0921&theme=vue-dark&layout=compact" />
+</div>
+
+<br>
+
+## 📫 Contact
+
+- Twitter / X: https://x.com/tivo0921
