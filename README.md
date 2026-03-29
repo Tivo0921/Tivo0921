@@ -35,6 +35,6 @@ Reverse engineering firmware and observing malware activity on IoT devices.
 ## 📊 GitHub Stats
 
 <div align="left"> 
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Tivo0921&theme=vue-dark&layout=compact" />
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tivo0921&theme=vue-dark&layout=compact" />
+  <img height="170px" src="https://github-readme-stats.shion.dev/api?username=Tivo0921&theme=vue-dark&layout=compact" />
+  <img height="170px" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Tivo0921&theme=vue-dark&layout=compact" />
 </div>
