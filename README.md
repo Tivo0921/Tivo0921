@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,45:414868,100:7aa2f7&height=140&section=header" width="100%"/>
 
-# Shun
+# Shun　Ikeda
 
 **Computer science student · building and leading product teams**
 
