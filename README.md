@@ -17,9 +17,7 @@ In production: [tabito.site](https://tabito.site) · [cocodoco.jp](https://cocod
 
 ## About
 
-<table>
-<tr>
-<td valign="top">
+<img src="img/senzai-face.PNG" width="230" align="right" alt="Shun Ikeda"/>
 
 Roughly half of my time goes to **security research** at university — IoT malware, honeypots, and what newly disclosed vulnerabilities look like once someone actually attacks them. The other half goes to **building and running products**: a travel platform live in production, a regional-tourism service I founded, and the internal platform for my university's programming circle, where I'm an org owner.
 
@@ -27,14 +25,7 @@ The two halves are closer than they look. Both start with something nobody has a
 
 The part I keep gravitating towards is the seam between the technical detail and the decision: what to build, in what order, and with whom.
 
-</td>
-<td width="280" valign="top">
-
-<img src="img/senzai-face.PNG" width="100%" alt="Shun Ikeda"/>
-
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 ---
 
