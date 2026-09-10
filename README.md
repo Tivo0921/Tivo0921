@@ -131,6 +131,8 @@ For a workshop I re-ran an existing experimental design on a different dataset: 
 
 <div align="center">
 
+<sub><code>Tivo</code> is <code>Shun</code> shifted forward by one letter. The only cipher on this profile, and everyone who has tried has broken it.</sub>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,55:414868,100:1a1b27&height=120&section=footer" width="100%"/>
 
 </div>
