@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,45:414868,100:7aa2f7&height=140&section=header" width="100%"/>
+
 # Shun Ikeda
 
 **Security research · Product engineering · Building and leading teams**
@@ -26,9 +28,9 @@ The two halves are closer than they look. Both start with something nobody has a
 The part I keep gravitating towards is the seam between the technical detail and the decision: what to build, in what order, and with whom.
 
 </td>
-<td width="270" valign="top">
+<td width="280" valign="top">
 
-<img src="img/withlena.jpg" width="100%"/>
+<img src="img/senzai-face.PNG" width="100%" alt="Shun Ikeda"/>
 
 </td>
 </tr>
@@ -135,3 +137,9 @@ For a workshop I re-ran an existing experimental design on a different dataset: 
 - **[shinkan-search](https://github.com/Tivo0921/shinkan-search)** — club-search app for new students, Next.js App Router over Postgres.
 - **[MyOS](https://github.com/Tivo0921/MyOS)** · **[projectC](https://github.com/Tivo0921/projectC)** — an OS written from scratch following *ゼロからのOS自作入門*, and a sugoroku game in C.
 - **[pull-shark-farm](https://github.com/Tivo0921/pull-shark-farm)** — a joke, executed with unreasonable rigour: shell automation for the GitHub Pull Shark achievement. Side project, not a portfolio piece.
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,55:414868,100:1a1b27&height=120&section=footer" width="100%"/>
+
+</div>
