@@ -17,7 +17,10 @@ In production: [tabito.site](https://tabito.site) · [cocodoco.jp](https://cocod
 
 ## About
 
-<img src="img/senzai-face.PNG" width="230" align="right" alt="Shun Ikeda"/>
+<p align="center">
+<picture><source media="(min-width: 700px)" srcset="img/spacer-wide.png"/><img src="img/senzai-face.PNG" width="100%" alt="Shun Ikeda"/></picture>
+<picture><source media="(max-width: 699px)" srcset="img/spacer.png"/><img src="img/senzai-face-230.png" align="right" alt=""/></picture>
+</p>
 
 Roughly half of my time goes to **security research** at university — IoT malware, honeypots, and what newly disclosed vulnerabilities look like once someone actually attacks them. The other half goes to **building and running products**: a travel platform live in production, a regional-tourism service I founded, and the internal platform for my university's programming circle, where I'm an org owner.
 
